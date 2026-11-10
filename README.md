@@ -1,8 +1,6 @@
 # Hi, I'm Vladyslav Shkurina 👋
 
-Cybersecurity student at **TU Dublin** (BSc Digital Forensics & Cybersecurity), looking for a **2027 internship** in cyber security, cloud security or IT infrastructure.
-
-I'm interested in cloud and network security: designing environments that are segmented, least-privilege and tested against real attacker tools, not just drawn on a diagram.
+Cybersecurity student at **TU Dublin** (BSc Digital Forensics & Cybersecurity).
 
 🔗 [LinkedIn](https://www.linkedin.com/in/vladyslav-shkurina-b3a324339/) · 📍 Dublin, Ireland
 
